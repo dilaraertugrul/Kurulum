@@ -5,7 +5,7 @@ Bu rehber, MacBook'ta Wine üzerinden Windows uygulamalarının nasıl kurulabil
 ## Gereksinimler
 - Homebrew (macOS paket yöneticisi)
 - Wine
-- Windows uygulama dosyası (.exe veya .msi)
+- Windows uygulama dosyası (.exe veya .msi) 
 
 ---
 
